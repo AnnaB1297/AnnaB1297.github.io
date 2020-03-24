@@ -1,2 +1,13 @@
 h1{color: deeppink;}
 h1{border-style: double;}
+h1{text-align: center;}
+h1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+h2{color:blueviolet}
+h2:active {color:red} /* When clicked the color will turn yellow */
+
+h2{background-image: url(https://turnheelwrestling.com/wp-content/uploads/2019/04/Triple-H.jpg);}
+
+ol{background-color: salmon;}
+
+img{}
